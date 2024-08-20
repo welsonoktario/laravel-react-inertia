@@ -34,6 +34,7 @@ A minimal SPA starter template using:
    \
    Bun:\
    `bun dev`
+5. Start editing from `/resources/js`.
 
 ### Production Build
 1. NPM:\
